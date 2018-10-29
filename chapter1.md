@@ -3,7 +3,7 @@ title: 'Frequentist A/B Testing'
 description: 'Chapter description goes here.'
 ---
 
-
+## Frequentist A/B Testing
 
 ```yaml
 type: VideoExercise
